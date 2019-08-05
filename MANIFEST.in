@@ -1,0 +1,4 @@
+include README.md
+include smg_utilities/util/*
+include smg_utilities/LICENSE
+include doc/*
